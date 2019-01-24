@@ -5,7 +5,8 @@
 
 Bazel Problems
 ```text
-Error:Cannot run program "bazel" (in directory "/Users/apple/work/iota/bazel/examples.2/cpp-tutorial/stage1"): error=2, No such file or directory
+Error:Cannot run program "bazel" (in directory ".../bazel/examples/cpp-tutorial/stage1"): 
+      error=2, No such file or directory
 Error:Could not run Bazel info
 ```
 
