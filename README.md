@@ -4,7 +4,7 @@
 Here are some articles written by me.
 
 ## Bazel and so on
- [Bazel plugin of CLion]( https://df595149790.github.io//bazel/bazel_clion_plugin.md )
+ [Sync error=2 when using CLion Bazel plugin]( https://df595149790.github.io//bazel/clion_bazel_plugin )
  
 
 
