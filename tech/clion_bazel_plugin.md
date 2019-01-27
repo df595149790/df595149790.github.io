@@ -1,5 +1,11 @@
 
-# 遇到的一个搞笑的问题
+遇到的一个搞笑的问题
+===
+
+[![Documentation](https://img.shields.io/badge/ide-clion-blue.svg)](https://www.jetbrains.com/clion/)
+[![Documentation](https://img.shields.io/badge/plugin-bazel-green.svg)](https://plugins.jetbrains.com/plugin/9554-bazel)
+[![Documentation](https://img.shields.io/badge/build-bazel-red.svg)](https://bazel.build/)
+
 
 在 CLion 中安装 bazel 插件后，按照手册执行，创建工程后，sync 工程，结果总是报告一个错误
 
