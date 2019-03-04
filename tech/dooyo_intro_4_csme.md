@@ -25,12 +25,14 @@ pre {
 
 **Dooyo** is a startup company created by **Alex** and **David**(me). 
 
-Alex is a senior market expert. He has a strong background on market sales and policies with more than 15 years working experience. I am a technique man. I have 20 years technique working experience, including many fields, such as communication hardware and software, enterprise solution, mobile development and so on. I like technique things and interested in make life more easier with it. I treat myself as a Programmer, a Explorer and a Trekker.   
+Alex is a senior market expert. He has a strong background on market sales and policies with more than 15 years working experience. I am a technique man. I have decades years technique working experience, covering many fields, such as communication hardware and software, enterprise solution, mobile development and so on. I like technique things and interested in make life more easier by the help of technique. I treat myself as a Programmer, a Explorer, a Trekker, and a Creator.   
 
 At the start time, we decided to make Independent Games. Alex and I are all like games, we like the the story, the action and the art behind it, especially fighting games. On the other side, game is a rapid developed area, not only the user experience and imagination scene, but also the technology. Many new technologies are used in game in the first, AR, VR, Gesture, Eye Tracking, Mobility, Wearable and so on. That is my interesting. I like technology, and want to use technology to change our life.    
  
- We have build a team during the development time.
-  
+ But, we have build a team during the development time since then. Our team evolves creative guys with different background. It is my pleasure to introduce some of team members here. Nalong is a our software architect, also a  technique problem solver in many areas. Wulong is a technique specialist focused on Hardware development and Driver software development, also a parent of a boy who was born after Wulong joined in Dooyo. Yiziyun is a designer for our game, and he like to see all sorts of Cartoons and Games. Kent is our artist, he like the beauty of violence and drawing roles with sprite of never give up! Of course I cannot mention all of our team members here, especially the memeber in coding, testing, operation and so on. Research and Development is always our major department.     
+
+
+
 
   
 
