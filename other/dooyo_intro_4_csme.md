@@ -31,11 +31,7 @@ At the start time, we decided to make Independent Games. Alex and I are all like
  
  But, we have build a team during the development time since then. Our team evolves creative guys with different background. It is my pleasure to introduce some of team members here. Nalong is a our software architect, also a  technique problem solver in many areas. Wulong is a technique specialist focused on Hardware development and Driver software development, also a parent of a boy who was born after Wulong joined in Dooyo. Yiziyun is a designer for our game, and he like to see all sorts of Cartoons and Games. Kent is our artist, he like the beauty of violence and drawing roles with sprite of never give up! Of course I cannot mention all of our team members here, especially the memeber in coding, testing, operation and so on. Research and Development is always our major department.     
 
-
-
-
-  
-
+After the game production period, I start to realize the ability of our team. We team members are technique guys almost, we have the power of implementation, both hardware and software. And we want use our technique power to do something, to make our life more easier, to make world more beautiful. That is our truly mind after so long time of create production. We want make our steps beyond the scope of Game.     
 
 
 ## Our Mind
