@@ -36,6 +36,22 @@ After the game production period, I start to realize the ability of our team. We
 
 ## Our Mind
 
+OK, what should we do? Our team is good at technology, especially in AI, Iot, IOTA, and has a strong interesting on Robot, ExoSkeleton, Automatic Driving. So I think these direction is a good start point for us to explore. 
+
+ After attending many interviews and discussions with so many people in these field, I made some directions suitable for our team to dive deeper in the future.    
+
+
+#### Automatic Driving Planning Framework
+ 
+
+#### Automatic Driving Data Marketplace
+
+
+#### Automatic Driving HUD (Head Up Display) 
+ 
+
+
+ 
 
 
 ## The Vision
