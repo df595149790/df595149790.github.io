@@ -7,4 +7,4 @@
 
 
 
-![IOTA-Based_Platooning](/media/iota_platooning_by_fraunhofer_blockchainlab.mp4)
+[IOTA-Based_Platooning](/media/iota_platooning_by_fraunhofer_blockchainlab.mp4)
