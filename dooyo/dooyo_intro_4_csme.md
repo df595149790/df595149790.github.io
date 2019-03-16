@@ -42,11 +42,20 @@ OK, what should we do? Our team is good at technology, especially in AI, Iot, IO
  After attending many interviews and discussions with so many people in these field, I made some directions suitable for our team to dive deeper in the future.    
 
 
+
+
+
 ---
-#### AR Education Platform 
+#### Machine Behavior Marketplace
 
-AR is a amazing technology, We like to use it in education. Dooyo has been established a solid platform for the chinese school, and we can provide more function based on this platform. According to our plan, AR will be used in the scenario of class teaching between teacher and students.
+Machine will be the future basement for our society. The live of people will depends on all sorts of machine, such as car, watch, phone and so on. We need keep these machines works well, then the producer need to keep track the data produced by their products. Also the owner of machine, i.e. every single person, need to keep privacy for themselves.
 
+We want to build a marketplace for every machine to store, exchange information between each other. Other entities will be play a role on this platform. The entities can be any type of object, not limited to be human. For example, Manufacture will track there products, People will control the benefit of their machines after them is brought by him, Policy can query the data if some law issues should be solved, NGO can monitor the data and analyse it to find a better way to keep our planet. 
+
+Economics will be used to be the running rule between the entities of marketplace to exchange their data. For example, People who own a car, can decide what type of information can be find by other entities, and what price will be paid if some entity want to see more detail. 
+  
+
+Sensor will provide the data source for the marketplace. 
 
 
 ---
@@ -55,12 +64,16 @@ AR is a amazing technology, We like to use it in education. Dooyo has been estab
 Intelligent is a major part in the future machine society. Autonomous Driving, Auto Moving Robots, AGV ( Automatic Guided Vehicle ), all these sorts machine will need recognition ability by using all kinds of senors to know their situation. Then they need to make decision according to their designed target by human. The decision includes obstacle avoiding, path planning.
 
 This is a complexity system, including software and hardware. We want to create a platform to implement all the dirty works.  
- 
+
+
 
 ---
-#### Machine Behavior Marketplace
+#### AR Education Platform 
 
-Machine will be the future basement for our society. People lives on all sorts of machine, such as car, watch, phone and so on. We need keep these machines works well, so the producer need to keep track the data produced by their machines. Also the owner of machine, every single person, need to keep privacy for themselves.
+AR is a amazing technology, We like to use it in education. Dooyo has been established a solid platform for the chinese school, and we can provide more function based on this platform. According to our plan, AR will be used in the scenario of class teaching between teacher and students.
+
+
+ 
 
 
 ---
