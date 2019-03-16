@@ -52,10 +52,11 @@ Machine will be the future basement for our society. The live of people will dep
 
 We want to build a marketplace for every machine to store, exchange information between each other. Other entities will be play a role on this platform. The entities can be any type of object, not limited to be human. For example, Manufacture will track there products, People will control the benefit of their machines after them is brought by him, Policy can query the data if some law issues should be solved, NGO can monitor the data and analyse it to find a better way to keep our planet. 
 
+![image](/media/dooyo_idea_mbm_1.png)
+
 Economics will be used to be the running rule between the entities of marketplace to exchange their data. For example, People who own a car, can decide what type of information can be find by other entities, and what price will be paid if some entity want to see more detail. 
   
-
-Sensor will provide the data source for the marketplace. 
+What is machine mean? In our Machine Behavior Marketplace, machine is not limited to narrow types. Let think the scenario of Autonomous Driving. Many sensors are equipped in cars to get the realtime data from situation, including Camera, LiDAR, Millimetre Wave Radar, Ultrasonic Radar and so on. Their data will be treated as raw data in the view of Machine Behavior Marketplace. Another scenario is robot. Cleaning Robot is widely used by people now.      
 
 
 ---
