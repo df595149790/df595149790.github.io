@@ -58,6 +58,10 @@ Economics will be used to be the running rule between the entities of marketplac
   
 What is machine mean? In our Machine Behavior Marketplace, machine is not limited to narrow types. Let think the scenario of Autonomous Driving. Many sensors are equipped in cars to get the realtime data from situation, including Camera, LiDAR, Millimetre Wave Radar, Ultrasonic Radar and so on. Their data will be treated as raw data in the view of Machine Behavior Marketplace. Another scenario is robot. Cleaning Robot is widely used by people now.      
 
+From the technique viewpoint, there several parts is need to build the whole system. At the machine side, a embedded device should be existed to provide the bridge between the target machine and marketplace network. The embedded device communicate with network by a protocol which is defined by us but open to all world. Raw data is transferred by the protocol. At the center of marketplace system, there are devices to store the raw data which is sliced into multiply parts to reduce the total size. Other devices is used to analyse the raw data, then generate report data which is stored also in the network. The analyse rule is defined by entity who has the authority. Another device need to mention is data exchange, which is used to exchange data between entities. 
+
+Some kinds of machine are listed in the following sections. We want to build them by our self.         
+
 
 ---
 #### Recognition Planning Platform
@@ -66,6 +70,12 @@ Intelligent is a major part in the future machine society. Autonomous Driving, A
 
 This is a complexity system, including software and hardware. We want to create a platform to implement all the dirty works.  
 
+Many sensors will be used by the autonomous cars to detect the situation, such as LiDAR, Camera ( Single or Dual Camera ), MillimeterWave Radar, Ultrasonic Radar and so on. Fusion recognition is need to merge all the information detected by these sensors. This is a very difficult work. Different sensor has different algorithm, LiDAR create 3D point cloud and need 3D object modeling and processing, Camera need computer vision to detect object, MillimeterWave Radar need Filter and even 3D point cloud processing. Then object detection will be done based the merged recognition information. Object will be divided into level according to their impact on the system target. For example People object has a higher level than other object such as obstacle object. Based on this object, some decision will be make to achieve the system target designed. It is called Planning. Planning is always divided tasks, each task can be divided into a more small sub-task. Task is a more focused single mission, such as Auto Lane Assist, Traffic Signal Identification, Forward Collision Warning and so on. These tasks also has priorities. A Resolution will merge all the task result and give the final output control singles. 
+
+This process is a more general flow not only used in Autonomous Car, but also Robots and many other machine with automatic motion abilities. 
+
+We want do design a framework to implement all the detail works. The platform has input and output interface for hardware to exchange data and control information, has software interface for arithmetic to plug and play, has api interface for human to monitor, also can be connected to Machine Behavior Marketplace. In conclusion, we will provide a hardware module for automatic machine to equip, a software stack for manufacture to program, a center cloud server for anyone to communicate.
+        
 
 
 ---
@@ -73,6 +83,7 @@ This is a complexity system, including software and hardware. We want to create 
 
 AR is a amazing technology, We like to use it in education. Dooyo has been established a solid platform for the chinese school, and we can provide more function based on this platform. According to our plan, AR will be used in the scenario of class teaching between teacher and students.
 
+Teacher can using our platform to generate 3D content. We provide multiply interactive mode, including Gesture, Voice and Mouse. We also provide a completely model creating toolset for teacher to generate their content very easily. After published the content can be taught to student. During the processing of explaining, multiply interactive mode will also do a very important role for teacher to explain the content thoroughly, such as scale, rotate, transfer, split, merge and auto animation. Yes, all the operation can be done by Gesture, voice and Mouse. Student can see the projected content in a large screen or wall, and operate the content as same as teacher. We provide camera sensors to capture the operation of teacher and student, and a edge computer to process the low-delay computing tasks and cloud server to process the time-sensitive tasks. Also AR Education Platform will be connected to Machine Behavior Marketplace. Content Producer can spread their content, see comment from others, and rewarded from the Publisher. This will construct a data economics system.    
 
  
 
