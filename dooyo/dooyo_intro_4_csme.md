@@ -41,6 +41,9 @@ OK, what should we do? Our team is good at technology, especially in AI, Iot, IO
 
  After attending many interviews and discussions with so many people in these field, I made some directions suitable for our team to dive deeper in the future.    
 
+Following is a high-level concept diagram. 
+
+![image](/media/dooyo_idea_0.png)
 
 
 
