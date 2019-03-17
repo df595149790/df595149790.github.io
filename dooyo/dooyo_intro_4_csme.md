@@ -97,13 +97,24 @@ Our HUD device can be installed on two positions in the car space.
 
 One position is the bottom of front windshield. This type HUD can be used in two ways. First, it is used to project road image onto the front window. Drivers ( Or Passengers in Autonomous Driving Scenario ) will see the situation information in realtime, such as Traffic Lane, Navigation Direction, POI Information and so on. The second usage, the HUD can also show the image out of the Driver's sight, such as situation just ahead the bumper bar which can not be seen because of hidden by the Engine Cover.   
 
-Another position is the top of every car window. This type HUD is used to project image onto the car window. Passengers will see a AR immersing picture.  
+Another position is the top of every car window. This type HUD is used to project image onto the car window. Passengers will see a AR immersing picture, and interactive with the content, such as gaming, shopping and talking. Passenger also can upload their information to the screen, such as POI name and emotion feeling.  
+
+By using our HUD, a tradition car cockpit will be transformed to a intelligent cockpit with immersing experience. Passenger will be more safe, and more happy during a long time of trip. 
+
+This HUD will be connected to Machine Behavior Marketplace to exchanged content dynamically. 
+
+
 
 
 ---
 #### Human Leg Exoskeleton 
 
 Knee is a fragile part in Human body. I realised this seriously when my right knee is hurt during playing basketball. During the painful days, I really want to a Metal-Leg to make me move more quickly. 
+
+So I want build a exoskeleton which will be equip on the human leg. This exoskeleton can providing additional supporting force when people crouching，more explosive force when people jumping. People will be more smart and stronger without changing the Knee!
+
+This Exoskeleton will also be connected to Machine Behavior Marketplace to get the dynamic feature such as different scenario parameter adjustment.     
+
 
 
 ---
