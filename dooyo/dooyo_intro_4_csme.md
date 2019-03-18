@@ -73,6 +73,8 @@ Intelligent is a major part in the future machine society. Autonomous Driving, A
 
 This is a complexity system, including software and hardware. We want to create a platform to implement all the dirty works.  
 
+![image](/media/dooyo_idea_rpp_1.png)
+
 Many sensors will be used by the autonomous cars to detect the situation, such as LiDAR, Camera ( Single or Dual Camera ), MillimeterWave Radar, Ultrasonic Radar and so on. Fusion recognition is need to merge all the information detected by these sensors. This is a very difficult work. Different sensor has different algorithm, LiDAR create 3D point cloud and need 3D object modeling and processing, Camera need computer vision to detect object, MillimeterWave Radar need Filter and even 3D point cloud processing. Then object detection will be done based the merged recognition information. Object will be divided into level according to their impact on the system target. For example People object has a higher level than other object such as obstacle object. Based on this object, some decision will be make to achieve the system target designed. It is called Planning. Planning is always divided into tasks, each task can be divided into a more small sub-task. Task is a more focused single mission, such as Auto Lane Assist, Traffic Signal Identification, Forward Collision Warning and so on. These tasks also have priorities. At last, a Resolution Mechanism will be used to merge all the task result and give the final output control singles. 
 
 This process is a more general flow not only used in Autonomous Car, but also Robots and many other machine with automatic motion abilities. 
