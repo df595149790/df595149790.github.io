@@ -14,6 +14,10 @@ Hello, I am David
 [Dooyo introduction and what Dooyo want to do?]( /dooyo/dooyo_intro_4_csme )
 
 
+---
+## Idea
+[Notes recorded when I thought sometimes]( /idea/201904 )
+
 
 ---
 ## Tech
