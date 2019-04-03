@@ -83,6 +83,17 @@ We want do design a framework to implement all the detail works. The platform ha
         
 
 
+
+---
+#### Fusion Simulation Platform
+
+Automation will be the future, but many difficulties still existed. Today AI is based on the big data. Model is trained from massive data, then the all the arguments are settled according to the relationship possibility between input and output. Then the inference will be processed during the production scenario, such as Self Driving Car, Autonomous Robot. But this methodology never knows how to treat the data not trained before. Several methods can handle this problem. One of them is adding rules defined by human. Decision will be made by mixing human rule and trained model. Another method is adding more abnormal testing use-cases and doing simulation. This way can make add more useful information into the training data, then make the model more robust. 
+
+Our idea is to create such a mixed testing and simulation system, Fusion Simulation Platform. 
+  
+
+
+
 ---
 #### AR Education Platform 
 
