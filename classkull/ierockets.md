@@ -1,6 +1,43 @@
 
-
+---
 #### 20190405
+
+
+### Classkull
+
+#### Intruduction 
+
+Classkull is Changing Education by Technology
+
+#### Role ( David ) 
+
+Product Designer, 
+Technique Architect,
+Software Programmer,
+Company Coordinator.
+
+#### Specialist
+
+We are experts on Algorithm, such as AI/AR/BD/SLAM/IOTA.
+We have experiences on Application, such as Enterprise/Game/Education.
+
+#### Website 
+
+www.classkull.com ( under construction )
+
+#### Finance
+
+Total Valuation : $4,000,000
+Captical Rising : $  600,000
+
+
+---
+### Founder ( David )
+
+#### Introduction
+
+Serial Entrepreneur, Technique Expert, Trekker, Explorer.  
+
 
 #### Achivement
 
@@ -13,4 +50,19 @@ After that another friend and I created the second company, Silvercreek. I playe
 In 2012 Alex and I created a new company, DooyoGame, focused on Game Development. We created a lot of games, including Casual, SLG, Puzzle, Arcade and Action. Most of the game is running on Mobile platform, such as IOS and Android.    
 
 From 2018 Alex and I realized that Education has a lot of problems, especially in the field of Knowledge Sharing. So we think perhaps we can solve it through technology. Then at 2019, Classkull is founded by us to make our idea into reality.
+
+
+
+### Product
+
+#### Main
+
+We will provide a platform for knowledge teaching and sharing. The core part of platform is a model database which represents the knowledge Human understood by now. We will init the model by computer algorithm in the area of Natural Science such as Math, Chemical, Physics. We think these type of knowledge is suitable for Machine to maintain and teaching without human involving. Multiply methods are provided for people to interactive with knowledge, including AR, VR, Gesture, Voice, Text, Animation and Free Operation, such as Scale, Rotate, Transform, Split and Merge.  A user can add annotation into the model to create a Self-Branding knowledge, and get financial return if other users like it.  The income of platform is mainly based on the charging fees paid by the users. 
+
+
+
+#### To IE
+
+I think this product is a the future of Education. Current education method has a lot of problems. A professional people must be existed to teaching common knowledge to other fresh people. Different people has different understanding to the same knowledge. Imagination is very important for fresh people to learn knowledge, the learning curve is leap at most of the time for beginners. So what should we do? We think Game-Like and Self-Exploring is the suitable methodology. Then the machine prepared knowledge is the key element for teaching. The most suitable knowledge type is solid knowledge, or the natural science knowledge. But how to combine the knowledge and teaching? Multiply nature interactive method should be provided, including AR, VR, Voice, Text, Gesture,  and Free Operation such as rotate, scale, transform, split and merge. 
+
 
