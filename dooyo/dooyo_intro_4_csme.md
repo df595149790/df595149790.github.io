@@ -145,7 +145,10 @@ From the the first look, It is like a bicycle. Yes, it is a real bicycle. I can 
 Because of the machine's usage, I named it as Motion Combination Equipment, where Combination means function combination of Bicycle, Drone And Underwater Thruster.
   
 
- 
+---
+#### Boxing Training Robot
+
+I like Boxing, it is a sport with courage, strategy and thinking. Current Boxing trainning can be splitted into three main parts: Warm-up, Sandbag, Fighting-to-Coach. 
         
 
  
