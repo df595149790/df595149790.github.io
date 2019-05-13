@@ -26,9 +26,9 @@ Hello, I am David
 
 [Classkull for IE Rocket]( /classkull/ierockets )
 
-[Classkull for EdBeta] ( /classkull/edbeta )
+[Classkull for EdBeta]( /classkull/edbeta )
 
-[Classkull for AWS EdStart] ( /classkull/awsedstart )
+[Classkull for AWS EdStart]( /classkull/awsedstart )
 
 
 ---
