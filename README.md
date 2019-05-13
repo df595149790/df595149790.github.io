@@ -18,7 +18,9 @@ Hello, I am David
 ---
 ## Idea
 
-[Notes recorded when I thought sometimes]( /idea/201904 )
+Notes recorded when I thought sometimes
+
+[201905]( /idea/201905 ) | [201904]( /idea/201904 )
 
 
 ---
