@@ -32,6 +32,8 @@ Notes recorded when I thought sometimes
 
 [Classkull for AWS EdStart]( /classkull/awsedstart )
 
+[Classkull for SucSEED]( /classkull/sucseed )
+
 
 ---
 ## Tech
