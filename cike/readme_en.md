@@ -6,28 +6,58 @@ The final name of Cike is called as "Blade MinD : The Doom of Dynasty".
 We published it on Apple AppStore in 2017. 
 
 
-The story of 12 levels is listed as following.
+### Story
 
-##### Chapter 1
+Game need story, and we tell the story. 
 
-Enter City. City Gate, Alarm Bell, Rolling Log. 
+The story contains 2 chapters, and each chapter constains 6 ~ 10 levels. 
 
-[](/cike/image_en/level_1_1.jpg)
+The following list the name and image of the chapters and levels. 
+
+##### Chapter 1 : City
+
+1. City Gate, Alarm Bell, Rolling Log
+![image](/cike/image_en/level_1_1.jpg)
+
+2. Castle Roof, Sky Lane
+![image](/cike/image_en/level_1_2.jpg)
+
+3. Dual Tower
+![image](/cike/image_en/level_1_3.jpg)
+
+4. Blood Street
+![image](/cike/image_en/level_1_4.jpg)
+
+5. Skull Garden
+![image](/cike/image_en/level_1_5.jpg)
+
+6. Dizang 
+![image](/cike/image_en/level_1_6.jpg)
 
 
-[Castle Roof](/cike/image_en/level_1_2.jpg)
+##### Chapter 2 : Valley
 
-[Sky lane]
+1. Valley Camp
+![image](/cike/image_en/level_2_1.jpg)
 
-[Dual Tower](/cike/image_en/level_1_3.jpg)
+2. Steep Cliff
+![image](/cike/image_en/level_2_2.jpg)
 
-[Blood Street](/cike/image_en/level_1_4.jpg)
+3. Dark Forest
+![image](/cike/image_en/level_2_3.jpg)
 
-[Skull Garden](/cike/image_en/level_1_5.jpg)
+4. Death Bridge
+![image](/cike/image_en/level_2_4.jpg)
 
-[Dizang](/cike/image_en/level_1_6.jpg)
+5. Calm Lake
+![image](/cike/image_en/level_2_5.jpg)
 
-[Underground Cave]
+6. Shexie
+![image](/cike/image_en/level_2_6.jpg)
+
+
+
+
 
 
 
