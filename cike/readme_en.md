@@ -1,5 +1,5 @@
 
-Dooyogame want to create UNIQUE game from the startup and forever. 
+DooyoGame want to create UNIQUE game from the startup and forever. 
 
 "Cike" is the result game based on our vision. It has spended 2 years for us to develop, test and polish. It is a long time, but also an amazing time, a happy time. The final name of this game is renamed to "Blade MinD : The Doom of Dynasty" in 2017, then we published it on Apple AppStore. 
 
@@ -61,11 +61,27 @@ Please click following links to watch game videos :
 
 [Introduction video 3]( /cike/image_en/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
-[Sence video 1]( /cike/image_en/1_3_youming_fight_41-7of11_H264_1280x720_clip.mp4 )
+[Sence segment video 1]( /cike/image_en/1_3_youming_fight_41-7of11_H264_1280x720_clip.mp4 )
 
-[Sence video 2]( /cike/image_en/2_1_fight_24_youming.seq-1of3_H264_1280x720_clip.mp4 )
+[Sence segment video 2]( /cike/image_en/2_1_fight_24_youming.seq-1of3_H264_1280x720_clip.mp4 )
 
-[Sence video 3]( /cike/image_en/2_3_fight_24_canyu.seq-3of4_H264_1280x720_clip.mp4 )
+[Sence segment video 3]( /cike/image_en/2_3_fight_24_canyu.seq-3of4_H264_1280x720_clip.mp4 )
+
+[We testing and playing video 1]( /cike/image_en/cike_20170123_194434.mp4_20190520_203854.mp4 )
+
+[We testing and playing video 2]( /cike/image_en/cike_20161216_164815.mp4 )
+
+
+
+### Final
+
+Of course we have many ideas want to add into the game, but currently it is a base line to express ourself. 
+
+Hope you like it.
+
+
+
+
 
 
 
