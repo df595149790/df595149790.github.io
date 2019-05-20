@@ -39,14 +39,20 @@ Good Luck.
 
 ### Screen
 
-[Screen images]( /cike/screen_en )
+please click the link : [Screen images]( /cike/screen_en )
 
 
 ### Story
 
 Game need story, and we tell the story. The story contains 2 chapters, and each chapter constains 6 ~ 10 levels. 
 
-[Story names and images]( /cike/story_en )
+please click the link : [Story names and images]( /cike/story_en )
+
+
+### Video 
+
+[Introduction video]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+
 
 
 
