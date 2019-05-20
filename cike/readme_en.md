@@ -53,13 +53,19 @@ please click the link : [Story names and images]( /cike/story_en )
 
 All the video is recorded by the real game play, but we hide the HUD button. 
 
-Please click following links to watch game introduction :
+Please click following links to watch game videos :
 
 [Introduction video 1]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
 [Introduction video 2]( /cike/image_en/cike_1_android_hd_h264_1280x720_30fps.2.sound.mp4 )
 
 [Introduction video 3]( /cike/image_en/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+
+[Sence video 1]( /cike/image_en/1_3_youming_fight_41 - 7of11_H264_1280x720_clip.mp4 )
+
+[Sence video 2]( /cike/image_en/2_1_fight_24_youming.seq - 1of3_H264_1280x720_clip.mp4 )
+
+[Sence video 3]( /cike/image_en/2_3_fight_24_canyu.seq - 3of4_H264_1280x720_clip.mp4 )
 
 
 
