@@ -51,7 +51,17 @@ please click the link : [Story names and images]( /cike/story_en )
 
 ### Video 
 
-[Introduction video]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+All the video is recorded by the real game play, but we hide the HUD button. 
+
+Please click following links to watch game introduction :
+
+[Introduction video 1]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+
+[Introduction video 2]( /cike/image/cike_1_android_hd_h264_1280x720_30fps.2.sound.mp4 )
+
+[Introduction video 3]( /cike/image/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+
+
 
 
 
