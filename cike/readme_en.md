@@ -55,21 +55,21 @@ All the video is recorded by the real game play, but we hide the HUD button.
 
 Please click following links to watch game videos :
 
-[Introduction video 1]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+[Introduction video 1 : format = mp4, size = 9M]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
-[Introduction video 2]( /cike/image_en/cike_1_android_hd_h264_1280x720_30fps.2.sound.mp4 )
+[Introduction video 2 : format = mp4, size = 17M]( /cike/image_en/cike_1_android_hd_h264_1280x720_30fps.2.sound.mp4 )
 
-[Introduction video 3]( /cike/image_en/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+[Introduction video 3 : format = mp4, size = 30M]( /cike/image_en/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
-[Sence segment video 1]( /cike/image_en/1_3_youming_fight_41-7of11_H264_1280x720_clip.mp4 )
+[Sence segment video 1 : format = mp4, size = 3M]( /cike/image_en/1_3_youming_fight_41-7of11_H264_1280x720_clip.mp4 )
 
-[Sence segment video 2]( /cike/image_en/2_1_fight_24_youming.seq-1of3_H264_1280x720_clip.mp4 )
+[Sence segment video 2 : format = mp4, size = 5M]( /cike/image_en/2_1_fight_24_youming.seq-1of3_H264_1280x720_clip.mp4 )
 
-[Sence segment video 3]( /cike/image_en/2_3_fight_24_canyu.seq-3of4_H264_1280x720_clip.mp4 )
+[Sence segment video 3 : format = mp4, size = 2M]( /cike/image_en/2_3_fight_24_canyu.seq-3of4_H264_1280x720_clip.mp4 )
 
-[We testing and playing video 1]( /cike/image_en/cike_20170123_194434.mp4_20190520_203854.mp4 )
+[We testing and playing video 1 : format = mp4, size = 48M]( /cike/image_en/cike_20170123_194434.mp4_20190520_203854.mp4 )
 
-[We testing and playing video 2]( /cike/image_en/cike_20161216_164815.mp4 )
+[We testing and playing video 2 : format = mp4, size = 70M]( /cike/image_en/cike_20161216_164815.mp4 )
 
 
 
