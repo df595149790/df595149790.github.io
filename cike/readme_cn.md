@@ -25,7 +25,7 @@
 
 请阅读如下文章
 
-[关于明朝....那些真实的历史]( /cike/background )
+[关于明朝....那些真实的历史]( /cike/background_cn )
 
 [游戏设计中的考量]( /cike/design_cn )
 
