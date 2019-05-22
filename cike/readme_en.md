@@ -4,7 +4,7 @@ DooyoGame want to create UNIQUE game from the startup and forever.
 "Cike" is the result game based on our vision. It has spended 2 years for us to develop, test and polish. It is a long time, but also an amazing time, a happy time. The final name of this game is renamed to "Blade MinD : The Doom of Dynasty" in 2017, then we published it on Apple AppStore. 
 
 
-### Backgroud
+### Background
 
 Blade Mind is a bloody darkness action adventure mobile game.
 
