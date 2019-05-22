@@ -52,21 +52,21 @@
 
 视频有很多，都是真实操作录制的，但是屏蔽掉了HUD的按钮。我们支持PC运行，因此通过键盘可以直接操控。
 
-[介绍视频1]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+[介绍视频1：格式MP4大小9M]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
-[介绍视频2]( /cike/image_en/cike_1_android_hd_h264_1280x720_30fps.2.sound.mp4 )
+[介绍视频2：格式MP4大小17M]( /cike/image_en/cike_1_android_hd_h264_1280x720_30fps.2.sound.mp4 )
 
-[介绍视频3]( /cike/image_en/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+[介绍视频3：格式MP4大小30M]( /cike/image_en/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
-[片段视频1]( /cike/image_en/1_3_youming_fight_41-7of11_H264_1280x720_clip.mp4 )
+[片段视频1：格式MP4大小3M]( /cike/image_en/1_3_youming_fight_41-7of11_H264_1280x720_clip.mp4 )
 
-[片段视频2]( /cike/image_en/2_1_fight_24_youming.seq-1of3_H264_1280x720_clip.mp4 )
+[片段视频2：格式MP4大小5M]( /cike/image_en/2_1_fight_24_youming.seq-1of3_H264_1280x720_clip.mp4 )
 
-[片段视频3]( /cike/image_en/2_3_fight_24_canyu.seq-3of4_H264_1280x720_clip.mp4 )
+[片段视频3：格式MP4大小2M]( /cike/image_en/2_3_fight_24_canyu.seq-3of4_H264_1280x720_clip.mp4 )
 
-[手机真实操作视频1]( /cike/image_en/cike_20170123_194434.mp4_20190520_203854.mp4 )
+[手机真实操作视频1：格式MP4大小48M]( /cike/image_en/cike_20170123_194434.mp4_20190520_203854.mp4 )
 
-[手机真实操作视频2]( /cike/image_en/cike_20161216_164815.mp4 )
+[手机真实操作视频2：格式MP4大小70M]( /cike/image_en/cike_20161216_164815.mp4 )
 
 
 
