@@ -1,7 +1,11 @@
 
-DooyoGame want to create UNIQUE game from the startup and forever. 
+[English Version]( /cike/readme_en ) | [中文版本]( /cike/readme_cn ) 
 
-"Cike" is the result game based on our vision. It has spended 2 years for us to develop, test and polish. It is a long time, but also an amazing time, a happy time. The final name of this game is renamed to "Blade MinD : The Doom of Dynasty" in 2017, then we published it on Apple AppStore. 
+---
+
+DooyoGame, want to create ***UNIQUE*** game from the startup and forever. 
+
+"Cike" is the result game based on our vision. It has spent 2 years for us to develop, test and polish. It is a long time, but also an amazing time, a happy time. The final name of this game is renamed to "Blade MinD : The Doom of Dynasty" in 2017, then we published it on Apple AppStore. 
 
 
 ### Background
@@ -9,6 +13,12 @@ DooyoGame want to create UNIQUE game from the startup and forever.
 Blade Mind is a bloody darkness action adventure mobile game.
 
 Hundreds years ago, the people of Ming Dynasty in China is ruled by brutal force. A young assassin decide to kill The Emperor. He must face the terrible traps and powerful enemies before finishing task. At the same time the young man also find the secret of himself.
+
+[Histroy of Miny Dynasty of China, Chinese Version]( /cike/background_cn )
+
+[Game Design, Chinese Version]( /cike/design_cn )
+
+[Techinique, Chinese Version]( /cike/tech_cn )
 
 
 ### Features
@@ -39,21 +49,25 @@ Good Luck.
 
 ### Screen
 
-please click the link : [Screen images]( /cike/screen_en )
+The following is screen image we provided for AppStore.
+
+[Screen images]( /cike/screen_en )
 
 
 ### Story
 
 Game need story, and we tell the story. The story contains 2 chapters, and each chapter constains 6 ~ 10 levels. 
 
-please click the link : [Story names and images]( /cike/story_en )
+All the scene in each level is connected as a whole world. Player can run from one level into another level, then backward. The scene is continues, the story is continues. Yeah, we want build a Open World, and the game is a prototype of open world. Some objects can be interactived with player. These objects is called as "trap". Other objects is static as decoration.
+
+[Story names and images]( /cike/story_en )
 
 
 ### Video 
 
 All the video is recorded by the real game play, but we hide the HUD button. 
 
-Please click following links to watch game videos :
+Our game is Platform-Indenpended, so we played and recorded on PC by using Keyboard.
 
 [Introduction video 1 : format = mp4, size = 9M]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
@@ -77,15 +91,9 @@ Please click following links to watch game videos :
 
 Of course we have many ideas want to add into the game, but currently it is a base line to express ourself. 
 
+Only 2 big BOSS is shown in this version, and we have prepared another 3 big BOSS which will be shown in the future version.
+
 Hope you like it.
-
-
-
-
-
-
-
-
 
 
 
