@@ -91,6 +91,8 @@ Our game is Platform-Indenpended, so we played and recorded on PC by using Keybo
 
 [We testing and playing video 5 : format = mp4, size = 68M]( /cike/image_en/cike_20170123_194434.mp4_20190527_213530.mp4 )
 
+[We testing and playing video 6 : format = mp4, size = 62M]( /cike/image_en/cike_20170123_194434.mp4_20190527_214140.mp4 )
+
 
 
 
