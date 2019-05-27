@@ -53,6 +53,10 @@ The following is screen image we provided for AppStore.
 
 [Screen images]( /cike/screen_en )
 
+Following is some adv imaged we created.
+
+[Adv images]( /cike/adv_en )
+
 
 ### Story
 
