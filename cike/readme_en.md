@@ -62,7 +62,7 @@ All the scene in each level is connected as a whole world. Player can run from o
 
 [Story names and images]( /cike/story_en )
 
-[Level map for chapter 2 ] TODO: I will add it later, including overview map and single level map.
+[Level design and map]( /cike/level_en )
 
 
 

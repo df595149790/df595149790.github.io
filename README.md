@@ -16,6 +16,12 @@ Hello, I am David
 
 
 ---
+## Game
+
+[Blade MinD : The Doom of Dynasty]( /cike/readme_en )
+
+
+---
 ## Idea
 
 Notes recorded when I thought sometimes
