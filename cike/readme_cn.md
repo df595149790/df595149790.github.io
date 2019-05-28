@@ -45,6 +45,8 @@
 
 [提交给AppStore的截屏图片]( /cike/screen_en )
 
+[宣传图片]( /cike/adv_cn )
+
 
 ### 游戏剧情
 
@@ -52,26 +54,50 @@
 
 [剧情关卡名称与图片]( /cike/story_en )
 
+[关卡设计]( /cike/level_en )
+
 
 ### Video 
 
 视频有很多，都是真实操作录制的，但是屏蔽掉了HUD的按钮。我们支持跨平台运行，因此视频在PC上游戏并实时录制，通过键盘可以直接操控。
 
-[介绍视频1：格式MP4大小9M]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+视频格式都是MP4，但是加载时可能比较慢，请耐心等待。
 
-[介绍视频2：格式MP4大小17M]( /cike/image_en/cike_1_android_hd_h264_1280x720_30fps.2.sound.mp4 )
+[介绍视频1：大小9M]( /cike/image_en/cike_5a_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
-[介绍视频3：格式MP4大小30M]( /cike/image_en/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
+[介绍视频2：大小17M]( /cike/image_en/cike_1_android_hd_h264_1280x720_30fps.2.sound.mp4 )
 
-[片段视频1：格式MP4大小3M]( /cike/image_en/1_3_youming_fight_41-7of11_H264_1280x720_clip.mp4 )
+[介绍视频3：大小30M]( /cike/image_en/cike_3_android_hd_h264_1280x720_30fps.1.sound.mp4 )
 
-[片段视频2：格式MP4大小5M]( /cike/image_en/2_1_fight_24_youming.seq-1of3_H264_1280x720_clip.mp4 )
+[片段视频1：大小3M]( /cike/image_en/1_3_youming_fight_41-7of11_H264_1280x720_clip.mp4 )
 
-[片段视频3：格式MP4大小2M]( /cike/image_en/2_3_fight_24_canyu.seq-3of4_H264_1280x720_clip.mp4 )
+[片段视频2：大小5M]( /cike/image_en/2_1_fight_24_youming.seq-1of3_H264_1280x720_clip.mp4 )
 
-[手机真实操作视频1：格式MP4大小48M]( /cike/image_en/cike_20170123_194434.mp4_20190520_203854.mp4 )
+[片段视频3：大小2M]( /cike/image_en/2_3_fight_24_canyu.seq-3of4_H264_1280x720_clip.mp4 )
 
-[手机真实操作视频2：格式MP4大小70M]( /cike/image_en/cike_20161216_164815.mp4 )
+[手机实操视频1：大小48M]( /cike/image_en/cike_20170123_194434.mp4_20190520_203854.mp4 )
+
+[手机实操视频2：大小70M]( /cike/image_en/cike_20161216_164815.mp4 )
+
+[手机实操视频3: 大小28M]( /cike/image_en/cike_20161216_165036.mp4_20190527_205245.mp4 )
+
+[手机实操视频4: 大小43M]( /cike/image_en/cike_20161216_165036.mp4_20190527_205450.mp4 )
+
+[手机实操视频5: 大小68M]( /cike/image_en/cike_20170123_194434.mp4_20190527_213530.mp4 )
+
+[手机实操视频6: 大小62M]( /cike/image_en/cike_20170123_194434.mp4_20190527_214140.mp4 )
+
+[手机实操视频7: 大小21M]( /cike/image_en/cike_20170123_194434.mp4_20190527_214548.mp4 )
+
+[手机实操视频8: 大小42M]( /cike/image_en/cike_20170123_194434.mp4_20190527_214722.mp4 )
+
+[手机实操视频9: 大小36M]( /cike/image_en/cike_20170123_194434.mp4_20190527_215008.mp4 )
+
+[手机实操视频10: 大小43M]( /cike/image_en/cike_20170123_194434.mp4_20190527_215231.mp4 )
+
+[手机实操视频11: 大小54M]( /cike/image_en/cike_20170123_194434.mp4_20190527_215534.mp4 )
+
+[手机实操视频12: 大小20M]( /cike/image_en/cike_20170123_194434.mp4_20190527_215925.mp4 )
 
 
 
