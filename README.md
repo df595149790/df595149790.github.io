@@ -54,6 +54,10 @@ Notes recorded when I thought sometimes
 [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin )
  
  
+#### AI
+
+[AI History and Future, Chinese Version]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
+ 
 
 ---
 ## Other
