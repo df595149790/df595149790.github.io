@@ -34,11 +34,13 @@ Notes recorded when I thought sometimes
 
 [Classkull for IE Rocket]( /classkull/ierockets )
 
-[Classkull for EdBeta]( /classkull/edbeta )
+[Classkull for EdBeta 北塔]( /classkull/edbeta )
 
 [Classkull for AWS EdStart]( /classkull/awsedstart )
 
-[Classkull for SucSEED]( /classkull/sucseed )
+[Classkull for SucSEED 种力圈]( /classkull/sucseed )
+
+[Classkull 蓝驰资本 ]( /classkull/brv )
 
 
 ---
