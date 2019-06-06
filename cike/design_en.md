@@ -25,3 +25,8 @@ There are three type of shooting count, empty, limited and unlimited.
 where "Item" come from? "Item" will drop when player killed a enemy. Different enemy drops different "Item".
 Where "Slot" come from? "Slot" can be brought in the game shop.
 
+So, why we design "Slot & Item"?
+We think this design will give players more policies to configure their equipment. 
+* "Empty Slot", means players can fill any Items they want, such as Skills, Buffs, Weapons. Different Item has different effect. 
+* "Limited Count Slot", means the Item filled can be collected and shooted at any time. This is usefull for player. Player can collect different Item during the fighting, and shoot it out to kill emeny. Then they collect a new Item and shoot again. This provide the "Agile" effect for player to fighting.
+* "Unlimited Count Slot", means the Item is fixed. If player think some Item is very useful, they can permenent the Item usage by using this slot. 
