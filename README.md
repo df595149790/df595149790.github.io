@@ -42,6 +42,8 @@ Notes recorded when I thought sometimes
 
 [Classkull 蓝驰资本 ]( /classkull/brv )
 
+[Classkull YCombinaor China]( /classkull/ycombinator )
+
 
 ---
 ## Tech
