@@ -34,11 +34,13 @@ Notes recorded when I thought sometimes
 
 [Classkull for IE Rocket]( /classkull/ierockets )
 
-[Classkull for EdBeta]( /classkull/edbeta )
+[Classkull for EdBeta 北塔]( /classkull/edbeta )
 
 [Classkull for AWS EdStart]( /classkull/awsedstart )
 
-[Classkull for SucSEED]( /classkull/sucseed )
+[Classkull for SucSEED 种力圈]( /classkull/sucseed )
+
+[Classkull 蓝驰资本 ]( /classkull/brv )
 
 
 ---
@@ -53,6 +55,10 @@ Notes recorded when I thought sometimes
 
 [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin )
  
+ 
+#### AI
+
+[AI History and Future, PDF, Chinese Version]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
  
 
 ---

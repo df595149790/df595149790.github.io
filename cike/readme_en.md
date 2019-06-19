@@ -18,6 +18,8 @@ Hundreds years ago, the people of Ming Dynasty in China is ruled by brutal force
 
 [Game Design, Chinese Version]( /cike/design_cn )
 
+[Game Design, English Version, TBC]( /cike/design_en )
+
 [Techinique]( /cike/tech_en )
 
 
