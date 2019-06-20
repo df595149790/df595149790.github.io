@@ -1,9 +1,5 @@
 
-Hello, I am David
-===
----
-
-**Here are some articles written by me.**
+Hello, I am David, Here are some articles written by me.
 
 
 
@@ -40,9 +36,9 @@ Notes recorded when I thought sometimes
 
 [Classkull for SucSEED 种力圈]( /classkull/sucseed )
 
-[Classkull 蓝驰资本 ]( /classkull/brv )
+[Classkull for 蓝驰资本 ]( /classkull/brv )
 
-[Classkull YCombinaor China]( /classkull/ycombinator )
+[Classkull for YCombinaor China]( /classkull/ycombinator )
 
 
 ---
