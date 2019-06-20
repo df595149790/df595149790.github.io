@@ -4,11 +4,11 @@ Hello, I am David, Here are some articles written by me.
 
 
 ---
-## Dooyo
+## DOOYO
 
-#### Who is Dooyo?
+#### Who is DOOYO?
 
-[Dooyo introduction and what Dooyo want to do?]( /dooyo/dooyo_intro_4_csme )
+[DOOYO introduction and what DOOYO want to do?]( /dooyo/dooyo_intro_4_csme )
 
 
 ---
