@@ -26,7 +26,7 @@ Notes recorded when I thought sometimes
 
 
 ---
-## Captial-Rising
+## Captial
 
 [Classkull for IE Rocket]( /classkull/ierockets )
 
