@@ -292,3 +292,10 @@ Classkull智慧教育，即备课授课产品，目前没有类似的产品在�
 
 YC很早就知道了，我一直在关心技术领域的信息，了解到YC中国，与陆奇的加入有关，我挺喜欢陆奇的。
 
+
+#### 请拍摄一段60秒的视频，介绍团队每位创始人。上传至优酷（如果设置密码，请备注密码），并在下栏填写视频链接。视频录制规范请参考 www.ycchina.com/videoguideline
+
+[骨鱼科技之Classkull智慧教育介绍]( https://v.youku.com/v_show/id_XNDIzNzMwMjExMg==.html?spm=a2h0k.11417342.soresults.dtitle )
+
+
+
