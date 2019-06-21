@@ -119,6 +119,8 @@ So we want to import a new role, Sponser, who will provide the material for the 
 4. Customer (ie. Child & Parent), who will get the finished STEAM product from Trainer, and maybe insterested to the other products provided by the Sponser, then buy them;
 5. Platform (ie. Ourself), who will chain all the above roles together, providing a place to search, upload, download and buy the STEAM contents and materials.
 
+![image](/media/dooyo_idea_ssp_1.png)
+
 This is Business Model Innovation, technology plays a secondary role. But some tasks must be done if we want this model running well, such as Matching Algorithm, Big Data Analysing, Realtime Operation Tracking, Suggestion System and so on.  
 
 
