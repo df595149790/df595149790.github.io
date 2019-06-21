@@ -1,18 +1,14 @@
 
-Hello, I am David
-===
----
-
-**Here are some articles written by me.**
+Hello, I am David, Here are some articles written by me.
 
 
 
 ---
-## Dooyo
+## DOOYO
 
-#### Who is Dooyo?
+#### Who is DOOYO?
 
-[Dooyo introduction and what Dooyo want to do?]( /dooyo/dooyo_intro_4_csme )
+[DOOYO introduction and what DOOYO want to do?]( /dooyo/dooyo_intro_4_csme )
 
 
 ---
@@ -30,7 +26,7 @@ Notes recorded when I thought sometimes
 
 
 ---
-## Captial-Rising
+## Captial
 
 [Classkull for IE Rocket]( /classkull/ierockets )
 
@@ -40,7 +36,9 @@ Notes recorded when I thought sometimes
 
 [Classkull for SucSEED 种力圈]( /classkull/sucseed )
 
-[Classkull 蓝驰资本 ]( /classkull/brv )
+[Classkull for 蓝驰资本 ]( /classkull/brv )
+
+[Classkull for YCombinaor China]( /classkull/ycombinator )
 
 
 ---

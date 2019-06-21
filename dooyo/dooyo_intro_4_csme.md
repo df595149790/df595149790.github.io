@@ -12,7 +12,7 @@ pre {
 
 
 ---
-# Dooyo
+# DOOYO
 
 ---------------------------------
 
@@ -102,6 +102,25 @@ AR is a amazing technology, We like to use it in education. Dooyo has been estab
 Teacher can using our platform to generate 3D content. We provide multiply interactive mode, including Gesture, Voice and Mouse. We also provide a completely model creating toolset for teacher to generate their content very easily. After published, the content can be taught to student. During the processing of content explaining, multiply interactive mode will also play a very important role for teacher to explain thoroughly, such as scale, rotate, transfer, split, merge and animation. Yes, all the operation can be done by Gesture, Voice and Mouse. Student can see the content projected on a large screen or wall, and operate the content as same as teacher does. We provide camera sensors to capture the operation of teacher and student, edge computer to process the low-delay computing tasks, cloud server to process the time-senseless tasks. Also AR Education Platform will be connected to Machine Behavior Marketplace. Content Producer can spread their content without limit, read comments from others, and rewarded from the Publisher who want print content into books. This will construct a data economics system.    
 
  
+ 
+---
+#### STEAM Supplychain Platform
+
+STEAM is now very popullar in China and all worlds. But there are some questions need to be handled.
+1. Trainer (ie. School) do not know where to find the suitable STEAM contents.
+2. Producer (ie. Lego) only get paid from Trainer after they buy the contents or materials.
+3. Customer (ie. Child & Parent) pay for the Trainer instead of Producer, and get the finished STEAM product for free.  
+We think that the payment business model is the key factor which block the STEAM running faster.
+
+So we want to import a new role, Sponser, who will provide the material for the STEAM content. In the new business model, there are serveal roles to play with each other :
+1. Trainer (ie. Scholl), who will use the STEAM content and material from Producer with free, then provide them to Customer;
+2. Producer (ie. Lego), who will create STEAM content with material provided by Sponser;
+3. Sponser (ie. Cocacola), who will provide material to Producer and will have the oppotunity of getting other product bought by the Customer;
+4. Customer (ie. Child & Parent), who will get the finished STEAM product from Trainer, and maybe insterested to the other products provided by the Sponser, then buy them;
+5. Platform (ie. Ourself), who will chain all the above roles together, providing a place to search, upload, download and buy the STEAM contents and materials.
+
+This is Business Model Innovation, technology plays a secondary role. But some tasks must be done if we want this model running well, such as Matching Algorithm, Big Data Analysing, Realtime Operation Tracking, Suggestion System and so on.  
+
 
 
 ---
@@ -156,4 +175,12 @@ I like Boxing, it is a sport with courage, strategy and thinking. Current Boxing
 ---
 ## The Vision
 
+We think the furture will be a world of Human and Machine, and our Human society will run above the Machine system.
+
+So what should we do? We will make Machine to aid Human by the help of Technology.
+
+That is our vision.
+
+
+Reference website : [DOOYO 骨鱼科技]( http://www.dooyogame.com )
 
