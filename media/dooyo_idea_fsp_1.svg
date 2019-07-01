@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800px"
+   height="600px"
+   viewBox="0 0 800 600"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="dooyo_idea_fsp_1.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs35">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="584.48153 : 23.182375 : 1"
+       inkscape:vp_y="-1757.1573 : -747.39181 : 0"
+       inkscape:vp_z="167.62073 : 1003.244 : 1"
+       inkscape:persp3d-origin="551.76687 : 587.95234 : 1"
+       id="perspective3776" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient4617"
+       gradientUnits="userSpaceOnUse"
+       x="268.64801"
+       y="159.97046"
+       gradientTransform="matrix(-0.70681269,-1.6617536,1.8061561,-0.76823302,121.12182,1087.5841)">
+      <meshrow
+         id="meshrow4643">
+        <meshpatch
+           id="meshpatch4645">
+          <stop
+             path="c 31.6545,0  63.3089,0  94.9634,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop4647" />
+          <stop
+             path="c -49.0421,33.7599  -21.4559,68.5416  0,95.1496"
+             style="stop-color:#d7d7ff;stop-opacity:1"
+             id="stop4649" />
+          <stop
+             path="c -31.6545,0  -63.3089,0  -94.9634,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop4651" />
+          <stop
+             path="c 0,-31.7165  0,-63.433  0,-95.1496"
+             style="stop-color:#d7d7ff;stop-opacity:1"
+             id="stop4653" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.97875"
+     inkscape:cx="400"
+     inkscape:cy="300"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="922"
+     inkscape:window-height="836"
+     inkscape:window-x="515"
+     inkscape:window-y="3"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       id="rect3774"
+       width="165.72815"
+       height="109.38058"
+       x="141.42136"
+       y="148.11458"
+       style="fill:none" />
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g3778"
+       style="fill:none"
+       inkscape:perspectiveID="#perspective3776"
+       inkscape:corner0="1.0225624 : 0.31722217 : 0 : 1"
+       inkscape:corner7="0.27026779 : 0.22660437 : 0.19135813 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3780"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-width:1.59439671;stroke-linejoin:round"
+         inkscape:box3dsidetype="6"
+         d="m 292.71109,414.80497 78.72674,-33.48575 -17.61674,-67.81298 -71.92206,30.59144 z"
+         points="371.43783,381.31922 353.82109,313.50624 281.89903,344.09768 292.71109,414.80497 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3790"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-width:1.59439671;stroke-linejoin:round"
+         inkscape:box3dsidetype="11"
+         d="M 281.89903,344.09768 126.16069,224.31739 235.10083,177.98064 353.82109,313.50624 Z"
+         points="126.16069,224.31739 235.10083,177.98064 353.82109,313.50624 281.89903,344.09768 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3782"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-width:1.59439671;stroke-linejoin:round"
+         inkscape:box3dsidetype="5"
+         d="m 292.71109,414.80497 -172.7961,-95.94926 6.2457,-94.53832 155.73834,119.78029 z"
+         points="119.91499,318.85571 126.16069,224.31739 281.89903,344.09768 292.71109,414.80497 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3788"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-width:1.59439671;stroke-linejoin:round"
+         inkscape:box3dsidetype="13"
+         d="M 371.43783,381.31922 245.2663,265.5386 235.10083,177.98064 353.82109,313.50624 Z"
+         points="245.2663,265.5386 235.10083,177.98064 353.82109,313.50624 371.43783,381.31922 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3786"
+         style="fill:url(#meshgradient4617);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.59439671;stroke-linejoin:round"
+         inkscape:box3dsidetype="14"
+         d="M 119.91499,318.85571 245.2663,265.5386 235.10083,177.98064 126.16069,224.31739 Z"
+         points="245.2663,265.5386 235.10083,177.98064 126.16069,224.31739 119.91499,318.85571 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path3784"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-width:1.59439671;stroke-linejoin:round"
+         inkscape:box3dsidetype="3"
+         d="M 292.71109,414.80497 119.91499,318.85571 245.2663,265.5386 371.43783,381.31922 Z"
+         points="119.91499,318.85571 245.2663,265.5386 371.43783,381.31922 292.71109,414.80497 " />
+    </g>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#000000;stroke-opacity:1"
+       id="rect3796"
+       width="75"
+       height="140"
+       x="386"
+       y="99" />
+  </g>
+</svg>

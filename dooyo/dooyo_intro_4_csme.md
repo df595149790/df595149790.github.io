@@ -129,7 +129,9 @@ Knee is a fragile part in Human body. I realised this seriously when my right kn
 
 So I want build a exoskeleton which will be equip on the human leg. This exoskeleton can providing additional supporting force when people crouching，more explosive force when people jumping. People will be more smart and stronger without changing the Knee!
 
-This Exoskeleton will also be connected to Machine Behavior Marketplace to get the dynamic feature such as different scenario parameter adjustment.     
+This Exoskeleton will also be connected to Machine Behavior Marketplace to get the dynamic feature such as different scenario parameter adjustment. I will point to some important scenario for Human Leg Exoskeleton.
+
+Climbing is liked by more and more people. Beginner like treat climbing as a relax sport, but Snow-Mountain climber will treat climbing as a extreme sport. But all the climber need supplier during the climbing process.       
 
 
 
@@ -146,9 +148,16 @@ Because of the machine's usage, I named it as Motion Combination Equipment, wher
   
 
 ---
-#### Boxing Training Robot
+#### Boxing Coaching Robot
 
-I like Boxing, it is a sport with courage, strategy and thinking. Current Boxing trainning can be splitted into three main parts: Warm-up, Sandbag, Fighting-to-Coach. 
+I like Boxing, it is a sport with courage, strategy and thinking. Current Boxing training can be slitted into three main parts: Warm-up, Sandbag, Coach. Fighting against an experienced Coach is an very important stage for the Boxing Skill. But current there is no routing is recorded, or we can say, all the skill is recorded in the Coach's head. Coach's time is expensive. Only a few trainer can be taught by Coach, even the trainer is rich enough to afford the fee. 
+
+I want to build a robot, Boxing Coaching Robot, to do the Self-Training process for trainer. This robot has the human legs which can be rotated, sandbag body, two arms with glove which can do actions against trainer, a Dual-Camera to capture all the actions of trainer for analysing and making a Coach decision. Common experienced Boxing skill will be embedded into the robot, trainer feels that he is fighting against a real human Coach. Before each course, the trainer can authenticate himself into the robot. Then the robot will use all the history data of the trainer to arrange a suitable plan of current course. Of course a total course can be planned by the robot for the trainer when enough data is collected.
+
+By using Boxing Coaching Robot, trainer can do Boxing by himself now.  
+
+
+
         
 
  
