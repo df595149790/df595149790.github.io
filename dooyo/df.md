@@ -2,6 +2,7 @@
 
 ### 自我介绍
 
+
 #### 中文
 
 刘东峰，开发者/徒步者/探索者。
@@ -16,7 +17,10 @@
 
 玩过的运动包括登山、徒步、游泳、篮球、长跑、拳击等。
 
+喜欢的艺术包括工笔重彩、水彩、油画、圆雕、建筑设计、爵士、重金属摇滚等。
+
 至于未来，会探索更多未知领域，并创造独立机器生命。
+
 
 #### English
 
@@ -31,6 +35,8 @@ The companys I worked including ZTE, Intrisic, Topwave, Silvercreek, Dooyo.
 The domains I touched including Communication, Enterprise, Mobile Design, Game, Education, Robot, Self-driving, Digit Medical. 
 
 The sports I played including Climbing, Trekking, Swimming, Basketball, Running, Boxing.
+
+The arts I enjoyed including Chinese Painting, Watercolor Painting, Oil Painting, Sculpture, Architect, Jazz, Rock.
 
 In the future, I will explore more unknown, then create an independent robotic life.
 
