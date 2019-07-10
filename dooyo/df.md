@@ -18,4 +18,20 @@
 
 至于未来，会探索更多未知领域，并创造独立机器生命。
 
+#### English
+
+David, Programmer/Trekker/Explorer.
+
+After I got my Computer MS Degree from Xi'an Jiaotong University, I kept working on technique area, and now I am a Startup Enterpreneur.
+
+I am interested on interesting things, I am a person with strong logic thinking, open mind, and like to dive into adventure. 
+
+The companys I worked including ZTE, Intrisic, Topwave, Silvercreek, Dooyo.
+
+The domains I touched including Communication, Enterprise, Mobile Design, Game, Education, Robot, Self-driving, Digit Medical. 
+
+The sports I played including Climbing, Trekking, Swimming, Basketball, Running, Boxing.
+
+In the future, I will explore more unknown, then create an independent robotic life.
+
 
