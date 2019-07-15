@@ -30,14 +30,14 @@ After I got my Computer MS Degree from Xi'an Jiaotong University, I kept working
 
 I am interested on interesting things, I am a person with strong logic thinking, open mind, and like to dive into adventure. 
 
-The companys I worked including ZTE, Intrisic, Topwave, Silvercreek, Dooyo.
+The companys I worked includes ZTE, Intrisic, Topwave, Silvercreek, Dooyo.
 
-The domains I touched including Communication, Enterprise, Mobile Design, Game, Education, Robot, Self-driving, Digit Medical. 
+The domains I touched includes Communication, Enterprise, Mobile Design, Game, Education, Robot, Self-driving, Digit Medical. 
 
-The sports I played including Climbing, Trekking, Swimming, Basketball, Running, Boxing.
+The sports I played includes Climbing, Trekking, Swimming, Basketball, Running, Boxing.
 
-The arts I enjoyed including Chinese Painting, Watercolor Painting, Oil Painting, Sculpture, Architect, Jazz, Rock.
+The arts I enjoyed includes Chinese Painting, Watercolor Painting, Oil Painting, Sculpture, Architect, Jazz, Rock.
 
-In the future, I will explore more unknown, then create an independent robotic life.
+In the future, I will explore more unknown area, and create an Independent Robotic Life.
 
 
