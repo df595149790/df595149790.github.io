@@ -59,6 +59,8 @@ Notes recorded when I thought sometimes
 #### AI
 
 [AI History and Future, PDF, Chinese Version]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
+
+[Algorithm History and Future, PPTX, Chinese Version]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
  
 
 ---
