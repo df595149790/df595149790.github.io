@@ -70,6 +70,8 @@ Notes recorded when I thought sometimes
 
 [Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224)
 
+#### 【转载】使用Colab来加速Donkey Car训练 
+[使用Colab来加速Donkey Car训练]( http://kevingor.com/2019/08/use_colab_gpu_to_train_donkeycar/ )
 
 
 
