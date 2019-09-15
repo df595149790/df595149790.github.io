@@ -24,7 +24,7 @@ My self intro is following: [df]( /dooyo/df.md )
 
 Notes recorded when I thought sometimes
 
-[201905]( /idea/201905 ) | [201904]( /idea/201904 )
+[201908]( /idea/201908 ) | [201907]( /idea/201907 )  | [201906]( /idea/201906 ) | [201905]( /idea/201905 ) | [201904]( /idea/201904 ) 
 
 
 ---
