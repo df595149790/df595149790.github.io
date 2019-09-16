@@ -30,17 +30,20 @@ Notes recorded when I thought sometimes
 ---
 ## Captial
 
-[Classkull for IE Rocket]( /classkull/ierockets )
-
-[Classkull for EdBeta 北塔]( /classkull/edbeta )
-
-[Classkull for AWS EdStart]( /classkull/awsedstart )
-
-[Classkull for SucSEED 种力圈]( /classkull/sucseed )
-
-[Classkull for 蓝驰资本 ]( /classkull/brv )
-
-[Classkull for YCombinaor China]( /classkull/ycombinator )
+#### Classkull
+[IE Rocket]( /classkull/ierockets )
+|
+[EdBeta 北塔]( /classkull/edbeta )
+|
+[AWS EdStart]( /classkull/awsedstart )
+|
+[SucSEED 种力圈]( /classkull/sucseed )
+|
+[蓝驰资本 ]( /classkull/brv )
+|
+[YCombinaor China]( /classkull/ycombinator )
+|
+[ZhangChi]( /classkull/zhangchi )
 
 
 ---
