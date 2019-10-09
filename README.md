@@ -22,7 +22,7 @@ My self intro is following: [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 Notes recorded when I thought sometimes
 
-[201908]( /idea/201908 ) | [201907]( /idea/201907 )  | [201906]( /idea/201906 ) | [201905]( /idea/201905 ) | [201904]( /idea/201904 ) 
+[201909]( /idea/201909 ) | [201908]( /idea/201908 ) | [201907]( /idea/201907 )  | [201906]( /idea/201906 ) | [201905]( /idea/201905 ) | [201904]( /idea/201904 ) 
 
 
 ---
