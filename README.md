@@ -45,7 +45,7 @@ Notes recorded when I thought sometimes
 
 #### Singapore Airline Challenge 2019
 
-[Make Air Insteresting Again]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
+[Make Air Interesting Again]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
 
 ---
@@ -56,7 +56,7 @@ Notes recorded when I thought sometimes
 [IOTA Platooning PoC]( /other/iota_based_platooning )
  
 
-#### Bazel and so on
+#### Bazel
 
 [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin )
  
