@@ -1,7 +1,7 @@
 
 Hello, I am David, Here are some articles written by me.
 
-My self intro is following: [df]( /dooyo/df )
+My self intro is following: [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 
 
