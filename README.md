@@ -1,7 +1,7 @@
 
-Hello, I am David, Here are some articles written by me.
+Hello, I am David.
 
-My self intro is following: [df]( /dooyo/df ), [df2]( /dooyo/df2 )
+More about me please click : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 
 
@@ -12,9 +12,9 @@ My self intro is following: [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 
 ---
-## Idea
+## Notes
 
-Notes recorded when I thought sometimes
+Recorded when I thought and have time to write down
 
 ｜ [201909]( /idea/201909 ) 
 
@@ -70,6 +70,7 @@ Notes recorded when I thought sometimes
 [AI History and Future, PDF, Chinese Version]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
 
 [Algorithm History and Future, PPTX, Chinese Version]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
+
 
 #### LeaderShip
 
