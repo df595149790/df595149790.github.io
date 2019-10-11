@@ -1,7 +1,9 @@
 
 Hello, I am David.
 
-More about me please click : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
+Here are articles written at sometimes.
+
+About me : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 
 
