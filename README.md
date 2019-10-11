@@ -41,6 +41,11 @@ Recorded when I thought and have time to write down
 ## Captial
 
 #### Classkull Education
+
+BP: [CLASSKULL Smart Education, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
+
+Some Angle or VC we have talked: 
+
 | [IE Rocket]( /classkull/ierockets )
 | [EdBeta 北塔]( /classkull/edbeta )
 | [AWS EdStart]( /classkull/awsedstart )
@@ -51,7 +56,7 @@ Recorded when I thought and have time to write down
 
 #### Singapore Airline Challenge 2019
 
-[Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
+BP: [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
 
 ---
