@@ -32,15 +32,13 @@ Recorded when I thought and have time to write down
 
 
 ---
-## Game
+## Dooyo Game
 
 [Blade MinD : The Doom of Dynasty]( /cike/readme_en )
 
 
 ---
-## Captial
-
-#### Classkull Education
+## Classkull Education
 
 BP: [CLASSKULL Smart Education, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
 
@@ -54,7 +52,9 @@ Some Angle or VC we have talked:
 | [YCombinaor China]( /classkull/ycombinator )
 | [ZhangChi]( /classkull/zhangchi )
 
-#### Singapore Airline Challenge 2019
+
+---
+## Singapore Airline Challenge 2019
 
 BP: [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
