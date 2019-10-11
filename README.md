@@ -69,9 +69,9 @@ Recorded when I thought and have time to write down
  
 #### AI
 
-[AI History and Future, PDF, Chinese]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
+[AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
 
-[Algorithm History and Future, PPTX, Chinese]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
+[Algorithm History and Future, PPTX, Chinese, 3.52MB]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
 
 
 #### LeaderShip
