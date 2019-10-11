@@ -40,7 +40,7 @@ Recorded when I thought and have time to write down
 ---
 ## Captial
 
-#### Classkull
+#### Classkull Education
 | [IE Rocket]( /classkull/ierockets )
 | [EdBeta 北塔]( /classkull/edbeta )
 | [AWS EdStart]( /classkull/awsedstart )
@@ -51,11 +51,11 @@ Recorded when I thought and have time to write down
 
 #### Singapore Airline Challenge 2019
 
-[Make Air Interesting Again]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
+[Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
 
 ---
-## Tech
+## Other
 
 #### IOTA
 
@@ -69,22 +69,22 @@ Recorded when I thought and have time to write down
  
 #### AI
 
-[AI History and Future, PDF, Chinese Version]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
+[AI History and Future, PDF, Chinese]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
 
-[Algorithm History and Future, PPTX, Chinese Version]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
+[Algorithm History and Future, PPTX, Chinese]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
 
 
 #### LeaderShip
 
-[领导力 / LeaderShip ]( /dooyo/leadership )
+[领导力 / LeaderShip]( /dooyo/leadership )
 
 
-#### SZLUG Talk 
+#### SZLUG 
 
 [Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224)
 
 
-#### Retweet / 转载
+#### Retweet
 
 [使用Colab来加速Donkey Car训练]( http://kevingor.com/2019/08/use_colab_gpu_to_train_donkeycar/ )
 
