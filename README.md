@@ -35,7 +35,7 @@ Recorded when I thought and have time to write down
 ---
 ## Classkull Education
 
-BP: [CLASSKULL Smart Education, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
+BP: [CLASSKULL智慧教育, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
 
 Some Angle or VC we have talked: 
 
