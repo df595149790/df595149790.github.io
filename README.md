@@ -1,9 +1,9 @@
 
 Hello, I am David.
 
-Here are articles written at sometimes.
+Here are articles written by me.
 
-About me : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
+About myself : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 
 
