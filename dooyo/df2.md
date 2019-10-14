@@ -39,7 +39,7 @@
 感兴趣的技术方向，主要包括机器人控制、决策规划、数据分析、人工智能等方面。
 
 部分演讲PPT参见链接：
-* [Algorithm History and Future, PPTX, Chinese Version]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
+* [Algorithm History and Future, PPTX, Chinese]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
  
 
 ### 领导能力
