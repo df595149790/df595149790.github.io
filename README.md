@@ -73,7 +73,7 @@ BP: [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirli
 
 [Algorithm History and Future, PPTX, Chinese, 3.52MB]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
 
-[NLP 思考]( /dooyo/nlp )
+[NLP 思考]( /tech/nlp )
 
 #### LeaderShip
 
