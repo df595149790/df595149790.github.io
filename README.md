@@ -57,34 +57,22 @@ BP: [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirli
 ---
 ## Other
 
-#### IOTA
-
-[IOTA Platooning PoC]( /other/iota_based_platooning )
+[IOTA Platooning PoC]( /other/iota_based_platooning ) [**IOTA**]
  
+[Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin ) [**Bazel**]
 
-#### Bazel
+[AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf ) [**AI**]
 
-[Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin )
- 
- 
-#### AI
+[Algorithm History and Future, PPTX, Chinese, 3.52MB]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx ) [**AI**]
 
-[AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf )
+[NLP 思考]( /tech/nlp ) [**AI**][**NLP**]
 
-[Algorithm History and Future, PPTX, Chinese, 3.52MB]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx )
+[领导力 / LeaderShip]( /dooyo/leadership ) [**LeaderShip**]
 
-[NLP 思考]( /tech/nlp )
-
-#### LeaderShip
-
-[领导力 / LeaderShip]( /dooyo/leadership )
+[Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224) [**SZLUG**]
 
 
-#### SZLUG 
-
-[Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224)
-
-
+---
 #### Retweet
 
 [使用Colab来加速Donkey Car训练]( http://kevingor.com/2019/08/use_colab_gpu_to_train_donkeycar/ )
