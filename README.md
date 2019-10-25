@@ -57,19 +57,19 @@ BP: [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirli
 ---
 ## Other
 
-[IOTA Platooning PoC]( /other/iota_based_platooning ) [**IOTA**]
+| **[IOTA]** | [IOTA Platooning PoC]( /other/iota_based_platooning )
  
-[Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin ) [**Bazel**]
+| **[Bazel]** | [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin ) 
 
-[AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf ) [**AI**]
+| **[AI]** | [AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf ) 
 
-[Algorithm History and Future, PPTX, Chinese, 3.52MB]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx ) [**AI**]
+| **[AI]** | [Algorithm History and Future, PPTX, Chinese, 3.52MB]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx ) 
 
-[NLP 思考]( /tech/nlp ) [**AI**][**NLP**]
+| **[AI]** **[NLP]** | [NLP 思考]( /tech/nlp ) 
 
-[领导力 / LeaderShip]( /dooyo/leadership ) [**LeaderShip**]
+| **[LeaderShip]** | [领导力 / LeaderShip]( /dooyo/leadership ) 
 
-[Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224) [**SZLUG**]
+| **[SZLUG]** | [Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224) 
 
 
 ---
