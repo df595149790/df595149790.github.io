@@ -35,7 +35,7 @@ Recorded when I thought and have time to write down
 ---
 ## Classkull Education
 
-BP: [CLASSKULL智慧教育, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
+**[BP]** [CLASSKULL智慧教育, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
 
 Some Angle or VC we have talked: 
 
@@ -51,7 +51,7 @@ Some Angle or VC we have talked:
 ---
 ## Singapore Airline Challenge 2019
 
-BP: [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
+**[BP]** [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
 
 ---
