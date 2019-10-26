@@ -35,35 +35,32 @@ Recorded when I thought and have time to write down
 ---
 ## Classkull Education
 
-[BP] | [CLASSKULL智慧教育, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
-
-Some Angle or VC we have talked: 
-
-| [IE Rocket]( /classkull/ierockets )
-| [EdBeta 北塔]( /classkull/edbeta )
-| [AWS EdStart]( /classkull/awsedstart )
-| [SucSEED 种力圈]( /classkull/sucseed )
-| [蓝驰资本 ]( /classkull/brv )
-| [YCombinaor China]( /classkull/ycombinator )
-| [ZhangChi]( /classkull/zhangchi )
+| BP | [CLASSKULL智慧教育, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
+| VC | [IE Rocket]( /classkull/ierockets )
+|    | [EdBeta 北塔]( /classkull/edbeta )
+|    | [AWS EdStart]( /classkull/awsedstart )
+|    | [SucSEED 种力圈]( /classkull/sucseed )
+|    | [蓝驰资本 ]( /classkull/brv )
+|    | [YCombinaor China]( /classkull/ycombinator )
+|    | [ZhangChi]( /classkull/zhangchi )
 
 
 ---
 ## Singapore Airline Challenge 2019
 
-[BP] | [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
+| BP | [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
 
 ---
 ## Other
 
-| [IOTA]        | [IOTA Platooning PoC]( /other/iota_based_platooning )
-| [Bazel] [CPP] | [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin ) 
-| [AI]          | [AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf ) 
-| [AI]          | [Algorithm History and Future, PPTX, Chinese, 3.52MB]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx ) 
-| [AI] [NLP]    | [NLP 思考]( /tech/nlp ) 
-| [LeaderShip]  | [领导力 / LeaderShip]( /dooyo/leadership ) 
-| [SZLUG]       | [Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224) 
+| IOTA        | [IOTA Platooning PoC]( /other/iota_based_platooning )
+| Bazel CPP   | [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin ) 
+| AI          | [AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf ) 
+| AI          | [Algorithm History and Future, PPTX, Chinese, 3.52MB]( /tech/Algorithm_History_and_Future.df.df.20190710.1834.pptx ) 
+| AI NLP      | [NLP 思考]( /tech/nlp ) 
+| LeaderShip  | [领导力 / LeaderShip]( /dooyo/leadership ) 
+| SZLUG       | [Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224) 
 
 
 ---
