@@ -54,8 +54,9 @@ Recorded when I thought and have time to write down
 
 
 ## Other
+
 | Tag         | Link |
-| :---        | :--- |
+|:---         |:---  |
 | IOTA        | [IOTA Platooning PoC]( /other/iota_based_platooning )
 | Bazel CPP   | [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin ) 
 | AI          | [AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf ) 
