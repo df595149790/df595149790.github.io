@@ -18,6 +18,8 @@ About myself : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 Recorded when I thought and have time to write down
 
+|                          |                          |                          |                          |
+| ---                      | ---                      | ---                      | ---                      |
 |                          |                          |                          | [201909]( /idea/201909 ) |
 | [201908]( /idea/201908 ) | [201907]( /idea/201907 ) | [201906]( /idea/201906 ) | [201905]( /idea/201905 ) |
 | [201904]( /idea/201904 ) |                          | [201902]( /idea/201902 ) | [201901]( /idea/201901 ) |
@@ -35,25 +37,30 @@ Recorded when I thought and have time to write down
 ---
 ## Classkull Education
 
-| BP | [CLASSKULL智慧教育, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
-| VC | [IE Rocket]( /classkull/ierockets )
-|    | [EdBeta 北塔]( /classkull/edbeta )
-|    | [AWS EdStart]( /classkull/awsedstart )
-|    | [SucSEED 种力圈]( /classkull/sucseed )
-|    | [蓝驰资本 ]( /classkull/brv )
-|    | [YCombinaor China]( /classkull/ycombinator )
-|    | [ZhangChi]( /classkull/zhangchi )
+|     |     |
+| --- | --- |
+| BP  | [CLASSKULL智慧教育, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
+| VC  | [IE Rocket]( /classkull/ierockets )
+|     | [EdBeta 北塔]( /classkull/edbeta )
+|     | [AWS EdStart]( /classkull/awsedstart )
+|     | [SucSEED 种力圈]( /classkull/sucseed )
+|     | [蓝驰资本 ]( /classkull/brv )
+|     | [YCombinaor China]( /classkull/ycombinator )
+|     | [ZhangChi]( /classkull/zhangchi )
 
 
 ---
 ## Singapore Airline Challenge 2019
 
+|    |    |
+|--- |--- |
 | BP | [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
 
 ---
 ## Other
-
+| Tag         | Link 
+| :---        | :---
 | IOTA        | [IOTA Platooning PoC]( /other/iota_based_platooning )
 | Bazel CPP   | [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin ) 
 | AI          | [AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf ) 
