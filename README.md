@@ -5,15 +5,14 @@ Here are articles written by me.
 
 About myself : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
-
-
 ---
+
+
 ## DOOYO
 
 [DOOYO introduction and what DOOYO want to do?]( /dooyo/dooyo_intro_4_csme )
 
 
----
 ## Notes
 
 Recorded when I thought and have time to write down
@@ -28,13 +27,11 @@ Recorded when I thought and have time to write down
 | [201804]( /idea/201804 ) | [201803]( /idea/201803 ) | [201802]( /idea/201802 ) | [201801]( /idea/201801 ) |
 
 
----
 ## Dooyo Game
 
 [Blade MinD : The Doom of Dynasty]( /cike/readme_en )
 
 
----
 ## Classkull Education
 
 |     |     |
@@ -49,7 +46,6 @@ Recorded when I thought and have time to write down
 |     | [ZhangChi]( /classkull/zhangchi )
 
 
----
 ## Singapore Airline Challenge 2019
 
 |    |    |
@@ -57,7 +53,6 @@ Recorded when I thought and have time to write down
 | BP | [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
 
----
 ## Other
 | Tag         | Link 
 | :---        | :---
@@ -70,8 +65,7 @@ Recorded when I thought and have time to write down
 | SZLUG       | [Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224) 
 
 
----
-#### Retweet
+## Retweet
 
 [使用Colab来加速Donkey Car训练]( http://kevingor.com/2019/08/use_colab_gpu_to_train_donkeycar/ )
 
