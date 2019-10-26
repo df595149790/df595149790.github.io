@@ -17,7 +17,7 @@ About myself : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 Recorded when I thought and have time to write down
 
-|                          |                          |                          |                          |
+| 4                        | 3                        | 2                        | 1                        |
 | ---                      | ---                      | ---                      | ---                      |
 |                          |                          |                          | [201909]( /idea/201909 ) |
 | [201908]( /idea/201908 ) | [201907]( /idea/201907 ) | [201906]( /idea/201906 ) | [201905]( /idea/201905 ) |
@@ -34,8 +34,8 @@ Recorded when I thought and have time to write down
 
 ## Classkull Education
 
-|     |     |
-| --- | --- |
+| Tag | Link|
+|:--- |:--- |
 | BP  | [CLASSKULL智慧教育, PPTX, Chinese, 3.58MB]( /classkull/CLASSKULL智慧教育(BP).df.20190728.1638.pptx )
 | VC  | [IE Rocket]( /classkull/ierockets )
 |     | [EdBeta 北塔]( /classkull/edbeta )
@@ -48,14 +48,14 @@ Recorded when I thought and have time to write down
 
 ## Singapore Airline Challenge 2019
 
-|    |    |
-|--- |--- |
+| Tag| Link|
+|:-- |:--- |
 | BP | [Location Based Ground Tour, PDF, English, 1.83MB]( /saac2019/SingaporeAirlineAppChallenge2019_RoaringWhale_201908101858.pdf )
 
 
 ## Other
-| Tag         | Link 
-| :---        | :---
+| Tag         | Link |
+| :---        | :--- |
 | IOTA        | [IOTA Platooning PoC]( /other/iota_based_platooning )
 | Bazel CPP   | [Sync error=2 when using CLion Bazel plugin]( /tech/clion_bazel_plugin ) 
 | AI          | [AI History and Future, PDF, Chinese, 907KB]( /tech/AI_History_and_Future.df.20190517.1307.pdf ) 
