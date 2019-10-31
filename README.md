@@ -64,7 +64,7 @@ Recorded when I thought and have time to write down
 | AI NLP      | [NLP 思考]( /tech/nlp ) 
 | LeaderShip  | [领导力 / LeaderShip]( /dooyo/leadership ) 
 | SZLUG       | [Relationship between technique and public welfare](/other/szlug_talk_with_xiaoban_20190224) 
-| Social      | [在社会行为中的个体大脑能量的平衡模型]( other/social_brain_energy )
+| Social      | [人类社会行为中个体大脑能量的平衡模型]( other/social_brain_energy )
 
 
 ## Retweet
