@@ -5,3 +5,11 @@
 
 
 
+AIDungeon 运行太慢了
+MacAir 
+Generating story ....
+Start:   13:47
+End:     
+
+
+
