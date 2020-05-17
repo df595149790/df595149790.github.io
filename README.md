@@ -28,6 +28,13 @@ Recorded when I thought and have time to write down
 | [201804]( /idea/201804 ) | [201803]( /idea/201803 ) | [201802]( /idea/201802 ) | [201801]( /idea/201801 ) |
 
 
+| speical                  |
+| ---                      |
+| [20191211_glue]( /idea/20191211_glue ) |
+| [20191224_aidungeon]( /idea/20191224_aidungeon ) |
+| [20200409_benben]( /idea/20200409_benben) |
+
+
 ## Dooyo Game
 
 [Blade MinD : The Doom of Dynasty]( /cike/readme_en )
