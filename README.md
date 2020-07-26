@@ -7,6 +7,10 @@ About myself : [df]( /dooyo/df ), [df2]( /dooyo/df2 )
 
 ---
 
+## Wechat Block 
+
+[Wechat Block 微信封号](/wechatblock/index )
+
 
 ## DOOYO
 
