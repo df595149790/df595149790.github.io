@@ -37,6 +37,7 @@ Recorded when I thought and have time to write down
 | [20191211_glue]( /idea/20191211_glue ) |
 | [20191224_aidungeon]( /idea/20191224_aidungeon ) |
 | [20200409_benben]( /idea/20200409_benben) |
+| [20200729_power]( /idea/20200729_power) |
 
 
 ## Dooyo Game
