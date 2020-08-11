@@ -24,6 +24,73 @@
 
 ---
 
+### Update 20200811
+
+前几天，看了《Jojo Rabbit》，很不错的电影。
+
+后面的一段情节中，突然播放了一首歌，另我当时，心中凛然一动，
+原因么....难以说明为什么，只是觉得，有所感触吧。
+
+[点击这里后去新页面听歌](http://music.163.com/outchain/player?type=2&id=1397619802&auto=1&height=66)
+
+歌词如下
+
+> Everybody's gotta live <br>
+> And everybody's gonna die <br>
+> Everybody's gotta live <br>
+> I think you know the reason why <br>
+>
+> Sometimes they go and gets so good <br>
+> But then again it gets pretty rough <br>
+> But when I have you in my arms, baby <br>
+> You know l just can't, I just can't get enough, oh yeah <br>
+> 
+> Everybody's gotta live, yes they do <br>
+> And everybody's gonna die <br>
+> Everybody's try to have a, a good time <br>
+> I think you know the reason why <br>
+> 
+> I saw a blind man standing on the corner yesterday, baby <br>
+> He couldn't hardly tie his shoes <br>
+> But he had a harmonica and a guitar strapped around his neck, and he sure could <br>
+> He sure could play the blues, oh yeah <br>
+> 
+> Everybody's gotta live <br>
+> And everybody's gonna die <br>
+> Everybody's try to have a, a good time <br>
+> I think you know the reason why <br>
+> 
+> I feel like I've seen just about a, million sunsets <br>
+> She said if your with me I'll never go away <br>
+> That's when I stopped and took another look at my baby <br>
+> She said if your with me I'll never go away, because <br>
+> 
+> Everybody's gotta live <br>
+> And everybody's gonna die <br>
+> Everybody's gotta live <br>
+> Before you know the reason why <br>
+> 
+> I had a dream the other night, baby <br>
+> I dreamed that I was all alone <br>
+> But when I woke up I took a look around my self <br>
+> And I was surrounded by fifty million strong, oh yeah <br>
+> 
+> Everybody's gotta live <br>
+> And everybody's gonna die <br>
+> Everybody's gotta live <br>
+> Before you know the reason why, yeah <br>
+> 
+> Everybody's gotta live <br>
+> And everybody's gonna die <br>
+> Everybody's gotta live <br>
+> You gotta live, before you, know the reason why <br>
+
+
+```
+几度狂涛日月低
+舟师鼓枻歌相庆
+```
+
 ### Update 20200810
 
 最近，一些熟悉的朋友，希望让我交流一下，被 TX 封号的感觉，给大家做个专题演讲。
