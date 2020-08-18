@@ -25,7 +25,7 @@
 |  M |  T |  W |  T |  F |  S |  S |
 | -- | -- | -- | -- | -- | -- | -- |
 |    |    |    |    |    | ![01](/wechatblock/image/20200801_reply.jpg) | ![02](/wechatblock/image/20200802_reply.jpg) |
-| ![03](/wechatblock/image/20200803_reply.jpg) | ![04](/wechatblock/image/20200804_reply.jpg) | ![05](/wechatblock/image/20200805_reply.jpg) | ![06](/wechatblock/image/20200806_reply.jpg) | ![07](/wechatblock/image/20200807_reply.jpg) | ![08](/wechatblock/image/20200808_reply.jpg) | ![09](/wechatblock/image/20200809_reply.jpg) |
+| ![03](/wechatblock/image/20200803_reply.jpg) | ![04](/wechatblock/image/20200804_reply.jpg) | ![05](/wechatblock/image/20200805_reply.jpg) | ![06](/wechatblock/image/yyyyMMdd_empty.jpg) | ![07](/wechatblock/image/20200807_reply.jpg) | ![08](/wechatblock/image/20200808_reply.jpg) | ![09](/wechatblock/image/20200809_reply.jpg) |
 | ![10](/wechatblock/image/20200810_reply.jpg) | ![11](/wechatblock/image/20200811_reply.jpg) | ![12](/wechatblock/image/20200812_reply.jpg) | ![13](/wechatblock/image/20200813_reply.jpg) | ![14](/wechatblock/image/20200814_reply.jpg) | ![15](/wechatblock/image/20200815_reply.jpg) | ![16](/wechatblock/image/20200816_reply.jpg) |
 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |
 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
