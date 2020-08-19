@@ -50,6 +50,11 @@ Gone with Wind
 
 [点击这里去新页面查看](/wechatblock/update)  
 
+```
+两岸猿声啼不住
+轻舟已过万重山
+```
+
 
 
 ---
