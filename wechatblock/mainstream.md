@@ -4,12 +4,8 @@
 
 ### Mainstream 20200725
 
-```
-金风玉露一相逢
-便胜却人间无数
-```
 
-开始时，倒是没有记录的想法，不过时间长了，觉得维持现状，不是个办法，还是记录一下吧，万一....我要是不在了呢，对吧？
+开始时，倒是没有记录的想法，不过时间长了，觉得维持现状，不是个办法，还是记录一下吧，万一....我要是不在了呢....就像任总一样....对吧？
 
 等记录多一些后，考虑进行程序处理，OCR识别图片后，进行一些数据分析，例如时间间隔、人员分布、自动整理写总结文章等等，看看技术，到底能改变多少世界 :-)
 
@@ -136,17 +132,4 @@ Thanks.
 问题是，我始终没有明白，我到底错在哪里？而且，我并没有违法 Country 的法律，如果违法了，TX 可以报警呀？
 
 那就让生活继续吧，也让我的发音继续，直到....某一天。
-
-
-``` 
-There are known knowns; 
-there are things we know we know.
-We also know there are known unknowns; 
-that is to say we know there are some things we do not know.
-But there are also unknown unknowns
-the ones we don’t know we don’t know.
-
--- Donald Rumsfeld
-```
-
 
