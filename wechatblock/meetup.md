@@ -5,7 +5,6 @@
 
 不过，封号本身没有什么太多讲的，其他一些话题，倒是可以聊聊。
 
-下面是一些 Topic
 
 ### Topic
 
@@ -15,7 +14,7 @@
     * WeBlock
 1. Github   
     * 社会协作
-    * Repo
+    * Repository
     * Markdown
     * Shields.io
     * Workflow ： Human / Robot
@@ -25,10 +24,11 @@
     * 解决思路
     * 数学作用
 1. More Future
+    * Open Mind
     * Greate Thing
     * General Requirement
     * Adaptive Solution
-    * Insistance Time
+    * Endurance Time
     * Enought Money
     * When & Who ?
     
