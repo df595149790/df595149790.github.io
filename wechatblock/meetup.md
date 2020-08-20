@@ -9,20 +9,20 @@
 ### Topic
 
 1. WeChatBlock
-    * 我们现状
-    * 如何避免
+    * OurCulture
+    * HowToAvoid
     * WeBlock
 1. Github   
-    * 社会协作
+    * Cooperation
     * Repository
     * Markdown
     * Shields.io
     * Workflow ： Human / Robot
 1. Quant 
-    * 量化意义
-    * 问题定义
-    * 解决思路
-    * 数学作用
+    * Why
+    * Observation
+    * Solution
+    * Mathmaticis
 1. More Future
     * Open Mind
     * Greate Thing
